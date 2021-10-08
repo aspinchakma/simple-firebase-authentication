@@ -1,0 +1,15 @@
+.login-ui{
+    border:1px solid red;
+    display: grid;
+    margin:auto;
+    width: 85%;
+    grid-template-columns: 3fr 2fr;
+    margin-top: 2rem;
+    grid-column-gap: 50px;
+}
+.image-login{
+    border:1px solid blue;
+}
+.image-login img{
+    width: 100%;
+}
